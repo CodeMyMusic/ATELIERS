@@ -92,25 +92,3 @@ def new_equation():
     equation(value_a, value_b, value_c)
 
 new_equation()
-
-
-
-
-#1 Les entrées : types
-#2 les pre-conditions : les caract des entrées
-#3 les sorties
-#4 les post conditions que doivent vérifier les sorties
-
-"""
-paramètre formel pour la fonction
-paramètre effectif pour l'appel
-python est permissif
-littral : pas de variable assignée à la valeur
-effets de bord
-tout est objet
-les var ne contiennetn pas une valeur mais 
-contineenet une ref (adrrese mem ou id) vers un objet
-objets immutables
-fnoction id represente id interne (adr mem) d'une var qulst son type
-compteur de référence objet
-"""
